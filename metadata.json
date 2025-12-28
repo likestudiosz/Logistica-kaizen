@@ -1,0 +1,7 @@
+{
+  "name": "B2B Logistics Tracker",
+  "description": "A real-time GPS tracking system for B2B fleets with Admin, Driver, and Customer interfaces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
